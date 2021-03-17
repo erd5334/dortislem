@@ -1,0 +1,31 @@
+C:\Users\erd5334\source\repos\Dört İşlem Programı\Dört İşlem Programı\bin\Debug\Dört İşlem Programı.exe.config
+C:\Users\erd5334\source\repos\Dört İşlem Programı\Dört İşlem Programı\bin\Debug\Dört İşlem Programı.exe
+C:\Users\erd5334\source\repos\Dört İşlem Programı\Dört İşlem Programı\bin\Debug\Dört İşlem Programı.pdb
+C:\Users\erd5334\source\repos\Dört İşlem Programı\Dört İşlem Programı\obj\Debug\Dört İşlem Programı.csprojAssemblyReference.cache
+C:\Users\erd5334\source\repos\Dört İşlem Programı\Dört İşlem Programı\obj\Debug\Dört_İşlem_Programı.Form1.resources
+C:\Users\erd5334\source\repos\Dört İşlem Programı\Dört İşlem Programı\obj\Debug\Dört_İşlem_Programı.Properties.Resources.resources
+C:\Users\erd5334\source\repos\Dört İşlem Programı\Dört İşlem Programı\obj\Debug\Dört İşlem Programı.csproj.GenerateResource.cache
+C:\Users\erd5334\source\repos\Dört İşlem Programı\Dört İşlem Programı\obj\Debug\Dört İşlem Programı.csproj.CoreCompileInputs.cache
+C:\Users\erd5334\source\repos\Dört İşlem Programı\Dört İşlem Programı\obj\Debug\Dört İşlem Programı.exe
+C:\Users\erd5334\source\repos\Dört İşlem Programı\Dört İşlem Programı\obj\Debug\Dört İşlem Programı.pdb
+Y:\Dört İşlem Programı\Dört İşlem Programı\bin\Debug\Dört İşlem Programı.exe.config
+Y:\Dört İşlem Programı\Dört İşlem Programı\bin\Debug\Dört İşlem Programı.exe
+Y:\Dört İşlem Programı\Dört İşlem Programı\bin\Debug\Dört İşlem Programı.pdb
+Y:\Dört İşlem Programı\Dört İşlem Programı\obj\Debug\Dört İşlem Programı.csprojAssemblyReference.cache
+Y:\Dört İşlem Programı\Dört İşlem Programı\obj\Debug\Dört_İşlem_Programı.Form1.resources
+Y:\Dört İşlem Programı\Dört İşlem Programı\obj\Debug\Dört_İşlem_Programı.Properties.Resources.resources
+Y:\Dört İşlem Programı\Dört İşlem Programı\obj\Debug\Dört İşlem Programı.csproj.GenerateResource.cache
+Y:\Dört İşlem Programı\Dört İşlem Programı\obj\Debug\Dört İşlem Programı.csproj.CoreCompileInputs.cache
+Y:\Dört İşlem Programı\Dört İşlem Programı\obj\Debug\Dört İşlem Programı.exe
+Y:\Dört İşlem Programı\Dört İşlem Programı\obj\Debug\Dört İşlem Programı.pdb
+C:\Users\erd5334\Documents\QSupportControl\Files\Dört İşlem Programı\Dört İşlem Programı\bin\Debug\Dört İşlem Programı.exe.config
+C:\Users\erd5334\Documents\QSupportControl\Files\Dört İşlem Programı\Dört İşlem Programı\bin\Debug\Dört İşlem Programı.exe
+C:\Users\erd5334\Documents\QSupportControl\Files\Dört İşlem Programı\Dört İşlem Programı\bin\Debug\Dört İşlem Programı.pdb
+C:\Users\erd5334\Documents\QSupportControl\Files\Dört İşlem Programı\Dört İşlem Programı\obj\Debug\Dört İşlem Programı.csprojAssemblyReference.cache
+C:\Users\erd5334\Documents\QSupportControl\Files\Dört İşlem Programı\Dört İşlem Programı\obj\Debug\Dört_İşlem_Programı.Form1.resources
+C:\Users\erd5334\Documents\QSupportControl\Files\Dört İşlem Programı\Dört İşlem Programı\obj\Debug\Dört_İşlem_Programı.Properties.Resources.resources
+C:\Users\erd5334\Documents\QSupportControl\Files\Dört İşlem Programı\Dört İşlem Programı\obj\Debug\Dört İşlem Programı.csproj.GenerateResource.cache
+C:\Users\erd5334\Documents\QSupportControl\Files\Dört İşlem Programı\Dört İşlem Programı\obj\Debug\Dört İşlem Programı.csproj.CoreCompileInputs.cache
+C:\Users\erd5334\Documents\QSupportControl\Files\Dört İşlem Programı\Dört İşlem Programı\obj\Debug\Dört İşlem Programı.exe
+C:\Users\erd5334\Documents\QSupportControl\Files\Dört İşlem Programı\Dört İşlem Programı\obj\Debug\Dört İşlem Programı.pdb
+C:\Users\erd5334\Documents\QSupportControl\Files\Dört İşlem Programı\Dört İşlem Programı\obj\Debug\Dört_İşlem_Programı.frmAyarlar.resources

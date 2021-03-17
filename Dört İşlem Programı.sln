@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dört İşlem Programı", "Dört İşlem Programı\Dört İşlem Programı.csproj", "{7846E4C6-260D-4743-A268-C7294CC8D4D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7846E4C6-260D-4743-A268-C7294CC8D4D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7846E4C6-260D-4743-A268-C7294CC8D4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7846E4C6-260D-4743-A268-C7294CC8D4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7846E4C6-260D-4743-A268-C7294CC8D4D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88259CFF-4EFF-47A9-A46C-A568FFEA67CA}
+	EndGlobalSection
+EndGlobal
